@@ -42,7 +42,9 @@
 
 	#A. http://localhost:8081/api/rollingstone/person/1
 
-# 11. Try http://localhost:8091/api/rollingstone/person/client/1
+# 11. Try  the Client
+
+	#A. http://localhost:8091/api/rollingstone/person/client/1
 
 #12. Try the Client's Actuator Endpoint
 
